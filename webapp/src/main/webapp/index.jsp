@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning and YAML ON!!!! </h1>
+   <h1> Thank you from the Space Gods, Happy Learning and YAML ON!!!! </h1>
 
   
 </form>
